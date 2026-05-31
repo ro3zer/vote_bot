@@ -56,8 +56,8 @@ pm2 -v
 
 ## 3. 저장소 복제 및 패키지 설치
 ```bash
-git clone <your-repository-url>
-cd <repository-folder>
+git clone https://github.com/ro3zer/vote_bot.git
+cd vote_bot
 npm install
 ```
 
