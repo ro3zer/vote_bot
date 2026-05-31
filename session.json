@@ -1,0 +1,1 @@
+{"signer":"0x8dfb2A65e25E3F55C8d6E28CB23249F34CE7F8B5","expiresAt":"1777295538","feeLimit":{"limitType":1,"limit":"100000000000000000","period":"0"},"callPolicies":[{"target":"0x3B50dE27506f0a8C1f4122A1e6F470009a76ce2A","selector":"0x7060a227","valueLimit":{"limitType":0,"limit":"0","period":"0"},"maxValuePerUse":"10000000000000000","constraints":[]}],"transferPolicies":[]}
